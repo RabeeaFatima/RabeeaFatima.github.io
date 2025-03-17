@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-    alert("Welcome to Rabeea Fatima's Portfolio Website!");
+    alert("Welcome to my Portfolio!");
 });
