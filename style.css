@@ -35,20 +35,6 @@ nav ul li a {
     padding: 60px 0;
 }
 
-.profile-img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-}
-
-.btn {
-    background: white;
-    color: #007BFF;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
 /* Projects */
 .projects-grid {
     display: flex;
@@ -63,17 +49,6 @@ nav ul li a {
     width: 250px;
 }
 
-/* Publications */
-#publications ul {
-    list-style: none;
-}
-
-#publications a {
-    color: #007BFF;
-    text-decoration: none;
-    font-weight: bold;
-}
-
 /* Skills */
 .skills-grid {
     display: flex;
@@ -86,10 +61,4 @@ nav ul li a {
     background: #333;
     padding: 10px 15px;
     border-radius: 5px;
-}
-
-/* Footer */
-footer {
-    background: #333;
-    padding: 20px;
 }
