@@ -1,6 +1,9 @@
 title: "Rabeea Fatima"
 description: "Electrical & Computer Engineer | ASIC & FPGA Enthusiast"
-theme: minimal-mistakes-jekyll 
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+
 author:
   name: "Rabeea Fatima"
   email: "rabeeafatima@gmail.com"
