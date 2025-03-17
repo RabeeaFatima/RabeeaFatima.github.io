@@ -10,14 +10,15 @@ body {
 }
 
 header {
-    background: #4CAF50;
+    background: #2c3e50;
     color: white;
     padding: 20px;
     text-align: center;
+    font-size: 1.5em;
 }
 
 nav ul {
-    background: #333;
+    background: #34495e;
     list-style: none;
     padding: 0;
     text-align: center;
@@ -39,10 +40,11 @@ section {
     margin: 20px;
     background: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
 }
 
 h2 {
-    border-bottom: 2px solid #4CAF50;
+    border-bottom: 2px solid #2c3e50;
     padding-bottom: 5px;
 }
 
@@ -52,8 +54,9 @@ ul {
 }
 
 a {
-    color: #4CAF50;
+    color: #2c3e50;
     text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover {
@@ -61,11 +64,13 @@ a:hover {
 }
 
 footer {
-    background: #333;
+    background: #2c3e50;
     color: white;
     text-align: center;
     padding: 10px;
     position: relative;
     bottom: 0;
     width: 100%;
+    margin-top: 20px;
+    font-size: 0.9em;
 }
