@@ -1,3 +1,22 @@
-remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "Rabeea Fatima"
+description: "Electrical & Computer Engineer | ASIC & FPGA Enthusiast"
+theme: minimal-mistakes-jekyll 
+author:
+  name: "Rabeea Fatima"
+  email: "rabeeafatima@gmail.com"
+  github: "https://github.com/RabeeaFatima"
+  linkedin: "https://www.linkedin.com/in/rabeea01/"
+  location: "Austin, Texas, United States"
+
+# Navigation Menu
+nav:
+  - title: "About"
+    url: "#about"
+  - title: "Projects"
+    url: "#projects"
+  - title: "Publications"
+    url: "#publications"
+  - title: "Skills"
+    url: "#skills"
+  - title: "Contact"
+    url: "#contact"
